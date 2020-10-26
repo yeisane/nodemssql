@@ -33,6 +33,11 @@ cd nodemssql
 npm install
 ```
 
+## Environment file
+
+Rename **.env.example** to **.env**. This file contains the database config settings.
+
+
 ## Run the project
 
 ```
